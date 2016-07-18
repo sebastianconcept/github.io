@@ -4,7 +4,12 @@
     "repositoryName": "sebastianconcept.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "sebastianconcept@gmail.com",
+    "twitter": "sebastianconcpt"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
